@@ -1,0 +1,55 @@
+04-08 00:40:20.854 I/GoLog   (32142): initializing core...
+04-08 00:40:20.838 I/com.v2ray.ang(32142): StartCore-Manager: Starting core loop for 1775572089053
+04-08 00:40:20.833 D/com.v2ray.ang(32142):   log-level: warn
+04-08 00:40:20.833 D/com.v2ray.ang(32142):   udp-read-write-timeout: 60000
+04-08 00:40:20.833 D/com.v2ray.ang(32142):   tcp-read-write-timeout: 300000
+04-08 00:40:20.833 D/com.v2ray.ang(32142): misc:
+04-08 00:40:20.833 D/com.v2ray.ang(32142):   udp: 'udp'
+04-08 00:40:20.833 D/com.v2ray.ang(32142):   address: 127.0.0.1
+04-08 00:40:20.833 D/com.v2ray.ang(32142):   port: 10808
+04-08 00:40:20.833 D/com.v2ray.ang(32142): socks5:
+04-08 00:40:20.833 D/com.v2ray.ang(32142):   ipv4: 10.10.14.1
+04-08 00:40:20.833 D/com.v2ray.ang(32142):   mtu: 1500
+04-08 00:40:20.833 D/com.v2ray.ang(32142): tunnel:
+04-08 00:40:20.833 D/com.v2ray.ang(32142): HevSocks5Tunnel Config content:
+04-08 00:40:20.800 I/com.v2ray.ang(32142): StartCore-VPN: Service command received
+04-08 00:40:20.799 I/com.v2ray.ang(32142): V2Ray core environment initialized successfully
+04-08 00:40:20.744 I/com.v2ray.ang(32142): StartCore-VPN: Service created
+04-08 00:40:18.965 I/GoLog   (32094): initializing core...
+04-08 00:40:18.946 I/com.v2ray.ang(32094): StartCore-Manager: Starting core loop for 1775572089053
+04-08 00:40:18.938 D/com.v2ray.ang(32094):   log-level: warn
+04-08 00:40:18.938 D/com.v2ray.ang(32094):   udp-read-write-timeout: 60000
+04-08 00:40:18.938 D/com.v2ray.ang(32094):   tcp-read-write-timeout: 300000
+04-08 00:40:18.938 D/com.v2ray.ang(32094): misc:
+04-08 00:40:18.938 D/com.v2ray.ang(32094):   udp: 'udp'
+04-08 00:40:18.938 D/com.v2ray.ang(32094):   address: 127.0.0.1
+04-08 00:40:18.938 D/com.v2ray.ang(32094):   port: 10808
+04-08 00:40:18.938 D/com.v2ray.ang(32094): socks5:
+04-08 00:40:18.938 D/com.v2ray.ang(32094):   ipv4: 10.10.14.1
+04-08 00:40:18.938 D/com.v2ray.ang(32094):   mtu: 1500
+04-08 00:40:18.938 D/com.v2ray.ang(32094): tunnel:
+04-08 00:40:18.938 D/com.v2ray.ang(32094): HevSocks5Tunnel Config content:
+04-08 00:40:18.903 I/com.v2ray.ang(32094): StartCore-VPN: Service command received
+04-08 00:40:18.902 I/com.v2ray.ang(32094): V2Ray core environment initialized successfully
+04-08 00:40:18.852 I/com.v2ray.ang(32094): StartCore-VPN: Service created
+04-08 00:40:17.046 I/GoLog   (32049): initializing core...
+04-08 00:40:17.033 I/com.v2ray.ang(32049): StartCore-Manager: Starting core loop for 1775572089053
+04-08 00:40:17.029 D/com.v2ray.ang(32049):   log-level: warn
+04-08 00:40:17.029 D/com.v2ray.ang(32049):   udp-read-write-timeout: 60000
+04-08 00:40:17.029 D/com.v2ray.ang(32049):   tcp-read-write-timeout: 300000
+04-08 00:40:17.029 D/com.v2ray.ang(32049): misc:
+04-08 00:40:17.029 D/com.v2ray.ang(32049):   udp: 'udp'
+04-08 00:40:17.029 D/com.v2ray.ang(32049):   address: 127.0.0.1
+04-08 00:40:17.029 D/com.v2ray.ang(32049):   port: 10808
+04-08 00:40:17.029 D/com.v2ray.ang(32049): socks5:
+04-08 00:40:17.029 D/com.v2ray.ang(32049):   ipv4: 10.10.14.1
+04-08 00:40:17.029 D/com.v2ray.ang(32049):   mtu: 1500
+04-08 00:40:17.029 D/com.v2ray.ang(32049): tunnel:
+04-08 00:40:17.029 D/com.v2ray.ang(32049): HevSocks5Tunnel Config content:
+04-08 00:40:17.011 I/com.v2ray.ang(32049): StartCore-VPN: Service command received
+04-08 00:40:17.011 I/com.v2ray.ang(32049): V2Ray core environment initialized successfully
+04-08 00:40:16.976 I/com.v2ray.ang(32049): StartCore-VPN: Service created
+04-08 00:40:16.863 I/com.v2ray.ang(23528): StartCore-Manager: Starting VPN service
+04-08 00:40:16.857 I/com.v2ray.ang(23528): StartCore-Manager: startVService from MainActivity
+--------- beginning of main
+--------- beginning of system
